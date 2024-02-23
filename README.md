@@ -9,7 +9,7 @@ This repository contains various projects realized during my studies in Applied 
             <td align="center"><img src="B_Splines/Images/Solutions_evolution.gif" alt="Image 2" style="width: 100%; height: auto;" ></td>
         </tr>
         <tr>
-            <td align="center"><img src="Heat_Exchanger/Images/Convergence_rates_year.png" alt="Image 3" style="height: 120; width: auto;"></td>
+            <td align="center"><img src="Duffing_Equation_Chaos/Images/strange_attractor.gif" alt="Image 3" style="height: 120; width: auto;"></td>
             <td align="center"><img src="Fluid_Convection/Images/anim_mixer.gif" alt="Image 4" style="height: 120;width: auto"></td>
         </tr>
 </table>
